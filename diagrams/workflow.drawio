@@ -1,0 +1,4 @@
+GIS Data Cleaning & Standardization Workflow
+Data Ingestion → Geometry Validation → Attribute Cleaning
+→ CRS Standardization → Topology Validation
+→ Spatial QA/QC → Enterprise GIS Ready Dataset
