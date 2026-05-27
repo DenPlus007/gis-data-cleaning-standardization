@@ -25,7 +25,11 @@ The repository centralizes methodologies, workflows and GIS best practices assoc
 
 # 📷 Project Overview
 
-![GIS Data Cleaning & Standardization](assets/images/data-cleaning-roadmap.jpg)
+<p align="center">
+  <img src="./assets/images/data-cleaning-roadmap.jpg"
+       alt="GIS Data Cleaning & Standardization"
+       width="100%">
+</p>
 
 ---
 
@@ -218,10 +222,33 @@ gis-data-cleaning-standardization/
 
 ---
 
+# 🏷️ GitHub Topics
+
+```text
+gis
+arcgis
+arcgis-pro
+spatial-analysis
+topology
+geospatial
+data-cleaning
+qa-qc
+python
+arcpy
+geoai
+gis-automation
+spatial-data
+enterprise-gis
+```
+
+---
+
 # 👩‍💻 Author
 
 Denise Hernández González  
 GIS Analyst • Spatial Intelligence • GeoAI • Enterprise GIS
+
+---
 
 ---
 
