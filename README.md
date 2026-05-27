@@ -26,7 +26,7 @@ The repository centralizes methodologies, workflows and GIS best practices assoc
 # 📷 Project Overview
 
 <p align="center">
-  <img src="./assets/images/data-cleaning-roadmap.jpg"
+  <img src="assets/images/data-cleaning-roadmap.jpg?raw=true"
        alt="GIS Data Cleaning & Standardization"
        width="100%">
 </p>
@@ -249,9 +249,6 @@ Denise Hernández González
 GIS Analyst • Spatial Intelligence • GeoAI • Enterprise GIS
 
 ---
-
----
-
 
 Denise Hernández González  
 GIS Analyst • Spatial Intelligence • GeoAI • Enterprise GIS
